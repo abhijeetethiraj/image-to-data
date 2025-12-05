@@ -19,20 +19,4 @@ Pagination with adjustable page size
 
 Navigation between pages using Angular Router
 
-Project Structure
-src/
- ├── app/
- │   ├── pages/
- │   │   ├── image-to-data/
- │   │   │   ├── image-to-data.html
- │   │   │   ├── image-to-data.ts
- │   │   ├── product-list/
- │   │   │   ├── product-list.html
- │   │   │   ├── product-list.ts
- │   ├── services/
- │   │   ├── data.ts
- │   ├── models/
- │   │   ├── product.model.ts
- │   ├── app.routes.ts
- │   ├── main.ts
- │   ├── app.css
+
